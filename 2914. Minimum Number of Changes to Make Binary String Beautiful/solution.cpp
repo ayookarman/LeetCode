@@ -1,4 +1,5 @@
 class Solution {
+    
 public:
     int minChanges(string s) {
         int ans = 0;

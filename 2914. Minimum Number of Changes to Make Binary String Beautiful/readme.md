@@ -1,6 +1,7 @@
 <h1>2914. Minimum Number of Changes to Make Binary String Beautiful</h1>
 
-<div><p>You are given a <strong>0-indexed</strong> binary string <code>s</code> having an even length.</p>
+<div>
+<p>You are given a <strong>0-indexed</strong> binary string <code>s</code> having an even length.</p>
 
 <p>A string is <strong>beautiful</strong> if it's possible to partition it into one or more substrings such that:</p>
 
