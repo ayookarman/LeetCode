@@ -1,6 +1,6 @@
 <h1>3243. Shortest Distance After Road Addition Queries I</h1>
 
-<div class="elfjS" data-track-load="description_content"><p>You are given an integer <code>n</code> and a 2D integer array <code>queries</code>.</p>
+<div><p>You are given an integer <code>n</code> and a 2D integer array <code>queries</code>.</p>
 
 <p>There are <code>n</code> cities numbered from <code>0</code> to <code>n - 1</code>. Initially, there is a <strong>unidirectional</strong> road from city <code>i</code> to city <code>i + 1</code> for all <code>0 &lt;= i &lt; n - 1</code>.</p>
 
